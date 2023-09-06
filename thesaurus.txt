@@ -1,0 +1,23 @@
+﻿Label	Replace by
+artificial neural networks	artificial neural network
+evolutionary algorithms	evolutionary algorithm
+genetic algorithms	genetic algorithm
+heuristics	heuristic
+meta-heuristic	metaheuristic
+meta-heuristics	metaheuristic
+metaheuristics	metaheuristic
+neural networks	neural network
+portfolios	portfolio
+stock markets	stock market
+cloud computing	
+diversity	
+electricity markets	
+information retrieval	
+multi-objective optimization	multiobjective optimization
+vehicle routing	
+algorithms	algorithm
+covid-19	
+grasp	
+intensification and diversification	
+risk	
+vehicle routing problem	
